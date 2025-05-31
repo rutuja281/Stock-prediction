@@ -82,15 +82,9 @@ To build robust models that predict ETF price movements and provide data-driven 
 
 ---
 
-## 📎 Project Files
 
-- `data/`: Processed historical ETF prices
-- `notebooks/`: Jupyter notebooks with EDA and modeling
-- `models/`: Trained model outputs
-- `presentation.pptx`: Case study overview and visual summary
-- `Final Report.docx`: Full report with methodology, results, and citations
 
----
+
 
 
 
